@@ -1,6 +1,5 @@
 import pygame
 import random
-import time
 from datetime import datetime
 
 #1. game initializing
